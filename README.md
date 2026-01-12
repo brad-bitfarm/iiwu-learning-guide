@@ -1,7 +1,7 @@
 # From Information to Meaning: Foundations of Knowledge Representation & Discovery
 
 
-![IIWU Learning Path](IIWU_Learning_path.png)
+![IIWU Learning Path](IIWU_Learning_Path.png)
 
 
 _Audience: You (and future IIWU collaborators)
