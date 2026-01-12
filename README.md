@@ -26,8 +26,11 @@ A learning track through important concepts that help you understand what it mea
 The modules are designed to be AI assisted.
 
 1. Start a new chat session.
-2. Paste in this prompt along with with the module text:
-    > “I am currently working through Module X and want help reasoning through the concepts, not summarizing them.”
+2. Setup the context by:
+* adding the [Module_Chat_Context.md](modules/Module_Chat_Context.md)
+* adding in this prompt along with with the module text:
+    > “I am currently working through Module [ADD YOUR MODULE NUMBER] and want help reasoning through the concepts, not summarizing them.”
+* adding the module content
 3. Use the AI to help you work through the guide and understand concepts.
 
 ## Appendix: Shared Vocabulary
