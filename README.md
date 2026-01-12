@@ -11,15 +11,15 @@ A learning track through important concepts that help you understand what it mea
 
 ## Learning Modules
 
-* [Module 0 — Orientation: Why This Track Exists](modules/module-0.md)
-* [Module 1 — What Is Knowledge, Really?](modules/module-1.md)
-* [Module 2 — Knowledge Representation (KR): The Design Space](modules/module-2.md)
-* [Module 3 — Ontologies: Meaning with Structure](modules/module-3.md)
-* [Module 4 — Graphs as Substrates of Meaning](modules/module-4.md)
-* [Module 5 — Annotation, Extraction, and Interpretation](modules/module-5.md)
-* [Module 6 — Uncertainty, Provenance, and Identity](modules/module-6.md)
-* [Module 7 — Neuro-Symbolic Systems: The Bridge](modules/module-7.md)
-* [Module 8 — Emergence, Discovery, and Cognitive Threads](modules/module-8.md)
+* [Module 0 — Orientation: Why This Track Exists](modules/0_Orientation.md)
+* [Module 1 — What Is Knowledge, Really?](modules/1_Meaning-Context.md)
+* [Module 2 — Knowledge Representation (KR): The Design Space](modules/2_Knowledge-Representation.md)
+* [Module 3 — Ontologies: Meaning with Structure](modules/3_Ontologies.md)
+* [Module 4 — Graphs as Substrates of Meaning](modules/4_Graphs-As-Meaning.md)
+* [Module 5 — Annotation, Extraction, and Interpretation](modules/5_Annotation.md)
+* [Module 6 — Uncertainty, Provenance, and Identity](modules/6_Uncertainty-Provenance-Identity.md)
+* [Module 7 — Neuro-Symbolic Systems: The Bridge](modules/7_Neuro-Symbolic-Systems.md)
+* [Module 8 — Emergence, Discovery, and Cognitive Threads](modules/8_Emergence-Discovery.md)
 
 
 ## Process
@@ -29,6 +29,9 @@ The modules are designed to be AI assisted.
 2. Paste in this prompt along with with the module text:
     > “I am currently working through Module X and want help reasoning through the concepts, not summarizing them.”
 3. Use the AI to help you work through the guide and understand concepts.
+
+## Appendix: Shared Vocabulary
+[Vocabulary](Vocabulary_Appendix.md)
 
 
 
