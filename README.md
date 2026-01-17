@@ -9,6 +9,9 @@ Technically literate, conceptually curious, not necessarily academic_
 
 A learning track through important concepts that help you understand what it means to build a **Hybrid Neuro-Symbolic System**.
 
+## New To IIWU?
+Understanding our [North Star](resources/The_North%20Start.md) will give you a context to anchor what you're about to learn.
+
 ## Learning Modules
 
 * [Module 0 — Orientation: Why This Track Exists](modules/0_Orientation.md)
